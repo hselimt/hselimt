@@ -38,7 +38,7 @@
 ### [HST-WINDOWS-UTILITY-WINDOWS-FORM](https://github.com/hselimt/HST-WINDOWS-UTILITY-WINDOWS-FORM)
 > **Windows Forms** - Desktop version of the optimization utility with easy-to-use GUI interface.
 
-### [HST-WINDOWS-OPTIMIZER)](https://github.com/hselimt/HST-WINDOWS-OPTIMIZER)
+### [HST-WINDOWS-OPTIMIZER](https://github.com/hselimt/HST-WINDOWS-OPTIMIZER)
 > **CMD Script** - Lightweight alternative offering core optimization features through command-line scripts.
 
 ### [UNI-GRADE-SYSTEM](https://github.com/hselimt/UNI-GRADE-SYSTEM)
