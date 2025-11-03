@@ -38,8 +38,8 @@
 ### [HST-WINDOWS-UTILITY-WINDOWS-FORM](https://github.com/hselimt/HST-WINDOWS-UTILITY-WINDOWS-FORM)
 > **Windows Forms** - Desktop version of the optimization utility with easy-to-use GUI interface.
 
-### [W11-10-GAMING-OPTIMIZATION](https://github.com/hselimt/W11-10-GAMING-OPTIMIZATION)
-> **Batch Script** - Lightweight alternative offering core optimization features through command-line scripts.
+### [HST-WINDOWS-OPTIMIZER)](https://github.com/hselimt/HST-WINDOWS-OPTIMIZER)
+> **CMD Script** - Lightweight alternative offering core optimization features through command-line scripts.
 
 ### [UNI-GRADE-SYSTEM](https://github.com/hselimt/UNI-GRADE-SYSTEM)
 > **SAP ABAP** - Full-featured university grade management system for SAP environments.
