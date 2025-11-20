@@ -32,20 +32,8 @@
 
 ---
 
-### ⭐ [HST-WINDOWS-UTILITY](https://github.com/hselimt/HST-WINDOWS-UTILITY)
+### [HST-WINDOWS-UTILITY](https://github.com/hselimt/HST-WINDOWS-UTILITY)
 > **ASP.NET Core Web API** - Windows performance optimization utility with system configuration tools. Perfect for gamers maximizing hardware efficiency.
-
-### [HST-WINDOWS-UTILITY-WINDOWS-FORM](https://github.com/hselimt/HST-WINDOWS-UTILITY-WINDOWS-FORM)
-> **Windows Forms** - Desktop version of the optimization utility with easy-to-use GUI interface.
 
 ### [HST-WINDOWS-OPTIMIZER](https://github.com/hselimt/HST-WINDOWS-OPTIMIZER)
 > **CMD Script** - Lightweight alternative offering core optimization features through command-line scripts.
-
-### [UNI-GRADE-SYSTEM](https://github.com/hselimt/UNI-GRADE-SYSTEM)
-> **SAP ABAP** - Full-featured university grade management system for SAP environments.
-
-### [PATIENT-DOCTOR-TRACKING](https://github.com/hselimt/PATIENT-DOCTOR-TRACKING)
-> **Desktop Application** - Patient and doctor appointment management with intuitive interface for registration updates.
-
-### [LOCAL-TIME-AND-DATE-WEBSITE](https://github.com/hselimt/LOCAL-TIME-AND-DATE-WEBSITE)
-> **Web Application** - Interactive multi-timezone clock with live updates and automatic local time detection.
