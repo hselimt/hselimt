@@ -29,11 +29,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-### [HST-WINDOWS-UTILITY](https://github.com/hselimt/HST-WINDOWS-UTILITY)
-> **ASP.NET Core Web API** - Windows performance optimization utility with system configuration tools. Perfect for gamers maximizing hardware efficiency.
-
-### [HST-WINDOWS-OPTIMIZER](https://github.com/hselimt/HST-WINDOWS-OPTIMIZER)
-> **CMD Script** - Lightweight alternative offering core optimization features through command-line scripts.
