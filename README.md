@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm hselimt
-### Growing developer exploring new technologies
+### I am a final year Computer Programming student at Marmara University. My background includes an internship as an ABAP developer, alongside training certifications in C#, Java Spring Boot, ABAP, and Cybersecurity. My technical focus is on backend development. I am a native Turkish speaker, proficient in English, with a basic understanding of Russian. I am open to IT and backend positions worldwide, in both remote and face-to-face capacities also I am available for collaboration on projects.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hselimt/hselimt/output/github-contribution-grid-snake-dark.svg">
